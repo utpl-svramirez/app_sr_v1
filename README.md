@@ -20,6 +20,7 @@ Objetivos específicos: -Realizar un diagnóstico del sector económico comercia
 Uso esperado de la aplicación: La propuesta tiene como objetivo la digitalización del proceso clave del negocio, la comercialización y administración del inventario. Registrar la información del negocio en una plataforma digitalizada permitirá tener procesos más eficientes, mejorar la calidad y los tiempos de atención, almacenar, procesar y analizar datos del negocio que permitan tomar decisiones informadas.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
 
