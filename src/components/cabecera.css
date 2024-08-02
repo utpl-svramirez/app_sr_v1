@@ -1,0 +1,25 @@
+.contedorCabecera{
+    background: red;
+    }
+
+.cabeceraPrincipal{
+    width: 100%;
+    margin: 0 0 auto auto;
+}
+
+.cabeceraPrincipal h1 {
+    width: 100%;
+    background: darkgray;
+    margin: 0 0 0 0;
+}
+
+.menuPrincipal a{
+    background: #EBEBEB;
+    margin:1em 1em 1em 1em;
+    text-align: justify;
+    height: 40px;
+    font-display: ;
+    text-align: left;
+    word-spacing: 15px;
+    display: block;
+}
